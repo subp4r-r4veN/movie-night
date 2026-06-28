@@ -1,0 +1,11 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial;
+}
+
+.movie-card {
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
