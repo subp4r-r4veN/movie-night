@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Cars 2",
+    "year": 2011,
+    "genre": "Animation",
+    "runtime": 106,
+    "rating": "G",
+    "poster": "posters/cars2.jpg",
+    "description": "Lightning McQueen and Mater travel the world for the World Grand Prix, where Mater becomes involved in an international spy mission."
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "runtime": 169,
+    "rating": "PG-13",
+    "poster": "posters/interstellar.jpg",
+    "description": "A team of astronauts travels through a wormhole in search of a new home for humanity."
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "runtime": 154,
+    "rating": "R",
+    "poster": "posters/pulpfiction.jpg",
+    "description": "Several interconnected crime stories unfold in Los Angeles."
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Drama",
+    "runtime": 139,
+    "rating": "R",
+    "poster": "posters/fightclub.jpg",
+    "description": "An office worker and a charismatic soap salesman create an underground fight club."
+  },
+  {
+    "title": "It",
+    "year": 1990,
+    "genre": "Horror",
+    "runtime": 192,
+    "rating": "TV-14",
+    "poster": "posters/it1990.jpg",
+    "description": "A group of children face a terrifying shape-shifting entity that appears as a clown."
+  },
+  {
+    "title": "The Killing of John Lennon",
+    "year": 2006,
+    "genre": "Biography",
+    "runtime": 115,
+    "rating": "R",
+    "poster": "posters/johnlennon.jpg",
+    "description": "A dramatization of the events leading up to the murder of John Lennon."
+  },
+  {
+    "title": "127 Hours",
+    "year": 2010,
+    "genre": "Adventure",
+    "runtime": 94,
+    "rating": "R",
+    "poster": "posters/127hours.jpg",
+    "description": "The true story of a mountain climber trapped by a boulder in a remote canyon."
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": "Sci-Fi",
+    "runtime": 116,
+    "rating": "PG",
+    "poster": "posters/backtothefuture.jpg",
+    "description": "A teenager accidentally travels to the past in a time machine built by an eccentric scientist."
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "genre": "Animation",
+    "runtime": 91,
+    "rating": "PG",
+    "poster": "posters/iceagethemeltdown.jpg",
+    "description": "Manny, Sid, and Diego must escape a rapidly melting valley before it floods."
+  }
+]
